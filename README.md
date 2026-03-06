@@ -2,7 +2,10 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" width="40" height="40"/>
 </a>
 
-<h3>💻 Мои навыки и инструменты:</h3>
+
+
+
+<h3>💻 My Skills:</h3>
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" title="Python" width="40" height="40" style="margin-right: 10px;" />
   
